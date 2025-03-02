@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/manim-tirkey/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
+<p></p>
+<p align="justify">
+Welcome to my GitHub page! I am Manim Tirkey, a Computer Science graduate student at Virginia Tech with a passion for Software Engineering, Data Science, and AI. With over 10 years of programming experience, I have worked extensively with various languages and technologies, from full-stack web development to machine learning and big data analytics. I enjoy exploring new advancements in AI and building scalable, data-driven applications. Feel free to check out my projects and connect with me!
+</p>
 
 ## My favorite tools and technologies ⚙️
 
@@ -74,6 +78,10 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
   </tr>
 
 
@@ -102,17 +110,4 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=manimtirkey2000&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
-
-
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@manimtirkey2000/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@manimtirkey2000/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
-
 
