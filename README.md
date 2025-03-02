@@ -83,9 +83,10 @@ Welcome to my GitHub page! I am Manim Tirkey, a Computer Science graduate studen
       <br>React
     </td>
   </tr>
+</table>
 
 
-  ## Github stats 📊
+ ## Github stats 📊
   
   <details>
     <summary>GitHub Profile Stats 💻</summary>
@@ -110,4 +111,11 @@ Welcome to my GitHub page! I am Manim Tirkey, a Computer Science graduate studen
     <img src="https://komarev.com/ghpvc/?username=manimtirkey2000&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
   
   </details>
+
+
+ ## GitHub Profile Trophy 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=manimtirkey2000&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
