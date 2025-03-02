@@ -106,7 +106,11 @@ Welcome to my GitHub page! I am Manim Tirkey, a Computer Science graduate studen
 
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IDEA" />
-      <br>IDEA
+      <br>IntelliJ IDE
+    </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
     </td>
   </tr>
 </table>
