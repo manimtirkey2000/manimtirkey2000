@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/👋 Hi there! I'm Manim.gif" alt="👋 Hi there! I'm Manim" title="👋 Hi there! I'm Manim"/>
+<img src="https://raw.githubusercontent.com/manimtirkey2000/manimtirkey2000/main/👋 Hi there! I'm Manim.gif" alt="👋 Hi there! I'm Manim" title="👋 Hi there! I'm Manim"/>
 <div align="justify">
 
 <a href="https://www.linkedin.com/in/manim-tirkey/">
