@@ -82,7 +82,8 @@ Welcome to my GitHub page! I am Manim Tirkey, a Computer Science graduate studen
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
-
+  </tr>
+  <tr>
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
       <br>Tensorflow
