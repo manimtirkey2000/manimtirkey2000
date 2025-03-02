@@ -82,27 +82,27 @@ Welcome to my GitHub page! I am Manim Tirkey, a Computer Science graduate studen
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
       <br>React
     </td>
-  </tr>
+
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
       <br>Tensorflow
     </td>
-  </tr>
+ 
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="Pytorch" />
       <br>Pytorch
     </td>
-  </tr>
+
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" />
       <br>Jest
     </td>
-  </tr>
+
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
       <br>Jenkins
     </td>
-  </tr>
+
   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IDEA" />
       <br>IDEA
