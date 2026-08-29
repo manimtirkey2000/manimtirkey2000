@@ -1,0 +1,30 @@
+# Save as .github/workflows/profile-cards.yml in manimtirkey2000/manimtirkey2000
+#
+# Generates the stat cards as SVG files inside this repo once a day.
+# Once these exist, your README can point at local paths and will never break
+# because of someone else's Vercel instance going down.
+
+name: Profile cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily at 03:00 UTC
+  workflow_dispatch:       # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: 5
