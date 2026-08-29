@@ -89,12 +89,18 @@ I am passionate about UI performance optimization (Core Web Vitals), accessible 
 ## GitHub Profile Trophy 🏆
 
 <!--
-  The main instance is rate-limited. This is one of the volunteer mirrors listed
-  in ryo-ma/github-profile-trophy for load balancing — if it goes down, swap the
-  host for another from that list, or deploy your own instance.
+  Generated in-repo by .github/workflows/trophy.yml — no external service.
+  Run that workflow once from the Actions tab before pushing this README.
+
+  If you'd rather keep it live, these mirrors from ryo-ma's load-balancing
+  list are current; pick one and use it as the host:
+    https://trophy.benkou.dev/?username=manimtirkey2000
+    https://gh-trophy.cdnsoft.net/?username=manimtirkey2000
+    https://trophy.ryglcloud.net/?username=manimtirkey2000
+    https://github-trophies.devomb.com/?username=manimtirkey2000
 -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=manimtirkey2000&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="./trophy.svg" alt="Trophies" />
 </a>
 
 ---
