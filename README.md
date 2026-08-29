@@ -21,7 +21,21 @@ Here are some ideas to get you started:
 </a>
 <p></p>
 <p align="justify">
-Welcome to my GitHub page! I am Manim Tirkey, a Computer Science graduate student at Virginia Tech with a passion for Software Engineering, Data Science, and AI. With over 10 years of programming experience, I have worked extensively with various languages and technologies, from full-stack web development to machine learning and big data analytics. I enjoy exploring new advancements in AI and building scalable, data-driven applications. Feel free to check out my projects and connect with me!
+Hi there! 👋 I am Manim Tirkey, a Frontend & Fullstack Software Engineer with a Master’s in Computer Science from Virginia Tech and 3+ years of experience building high-performance, scalable web applications.
+
+Currently, I am a Frontend Software Engineer at Cloudsufi, building open-source data discovery tools for Google Cloud Dataplex. Previously, I engineered React and TypeScript applications serving 10M+ users at Optum (UnitedHealth Group).
+
+Tech Stack & Interests:
+
+Frontend: TypeScript, JavaScript (ES6+), React, Next.js, Redux, Context API, Material UI, Tailwind CSS
+
+Backend & APIs: Node.js, Next.js API Routes, GraphQL, REST, PostgreSQL, WebSockets
+
+Testing & Tools: Jest, React Testing Library, Docker, Jenkins CI/CD, AWS
+
+AI & Automation: Agentic workflows, OpenAI API, Claude, GitHub Copilot
+
+I am passionate about UI performance optimization (Core Web Vitals), accessible design (WCAG/ARIA), and building LLM-powered application workflows.
 </p>
 
 ## My favorite tools and technologies ⚙️
