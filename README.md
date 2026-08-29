@@ -112,37 +112,19 @@
 
 ## Github stats 📊
 
-<details>
-  <summary><strong>GitHub Profile Stats 💻</strong></summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="manimtirkey2000's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=manimtirkey2000&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="manimtirkey2000's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manimtirkey2000&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/>
-  </a>
-  <br/>
-</details>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=manimtirkey2000&show_icons=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary><strong>Activity Graph 📈</strong></summary>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Manim's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=manimtirkey2000&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true" />
-  </a>
-</details>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manimtirkey2000&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary><strong>Profile Views 👁️</strong></summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=manimtirkey2000&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" alt="Profile Views">
-</details>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manimtirkey2000&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## GitHub Profile Trophy 🏆
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=manimtirkey2000&row=1&margin-w=40" alt="trophy" />
-</a>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=manimtirkey2000&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
 <br/>
 
