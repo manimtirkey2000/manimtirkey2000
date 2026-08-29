@@ -1,0 +1,39 @@
+# Save as .github/workflows/snake.yml in manimtirkey2000/manimtirkey2000
+#
+# Renders your contribution grid as an animated SVG and pushes it to a branch
+# called `output`. The README then loads it from raw.githubusercontent.com,
+# which is GitHub's own CDN — nothing external to go down.
+
+name: Contribution snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
