@@ -1,11 +1,17 @@
 # Save as .github/workflows/trophy.yml in manimtirkey2000/manimtirkey2000
 #
-# Renders your trophies to trophy.svg inside this repo and commits it.
-# No external service is hit when your profile loads.
+# BEFORE RUNNING — create the token:
+#   1. GitHub Settings -> Developer settings -> Personal access tokens
+#      -> Tokens (classic) -> Generate new token (classic)
+#   2. Scopes: read:user  and  public_repo
+#      (no expiry, or you'll have to redo this)
+#   3. Copy it, then in THIS repo: Settings -> Secrets and variables
+#      -> Actions -> New repository secret
+#      Name: TROPHY_TOKEN     Value: <the token>
 #
-# Note: the action is published on a feature branch upstream (that's the ref
-# ryo-ma's README documents). If it ever disappears, fall back to running
-# render_svg.ts directly with Deno — same output.
+# The default GITHUB_TOKEN does NOT work here — it's scoped to the repo, and
+# the trophy renderer runs a GraphQL query against your *user* account. That's
+# the "Error fetching user info" line in your run.
 
 name: Trophy
 
@@ -27,8 +33,15 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
+          file: trophy.svg
+          theme: default
+          max-cols: 6
+          max-rows: 1
+          margin-width: 15
+          margin-height: 15
+          no-background: true
+          no-frame: true
 
       - name: Commit
         run: |
